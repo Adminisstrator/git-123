@@ -1,0 +1,5 @@
+#你程式寫得好爛喔！用我的版本啦！
+
+bad_code(){
+ print("Hello World!")
+}
